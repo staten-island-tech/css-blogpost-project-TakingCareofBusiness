@@ -1,58 +1,27 @@
 body {
-    background-color: yellow;
-    color: black;
-    font-size: ;
-}
-.header {
-    padding: 100px;
+    background-color:#feed00;
     text-align: center;
-    background: purple;
-    color: orangered;
-    font-size: 75px;
-  }
-body {
-    background-color:blueviolet
 }
-
-.subheader {
-    text-align: center;
-    color: orangered;
-    font-size: 50px;
+.text {
+    color: #0c0c06;
 }
-.paragraph {
-    color:black;
-    font-size: 30px;
-    
+#mainheading {
+    font-size:65px;
+    margin: 10px;
 }
-.unlistdescription {
-    text-align: center;
-    font-size: 35px;
+#subheading {
+    margin: 10px;
+    font-size:40px;
 }
-.unorderedlist {
-    text-align: center;
-    font-size: 35px;
+#explanation {
+    font-size:25px;
 }
-.rankedlistdescription {
-    text-align: center;
-    font-size: 35px;
+.articletitle {
+    font-size:50px;
 }
-.orderedlist {
-    text-align: center;
-    font-size: 35px;
-}
-.photo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-.link {
-    width: 300px;
-    height: 200px;
-    text-align: right;
-    background: yellow;
-    font-size: 25px;
-    margin: 20px auto;
-    border: 2px solid black;
-    padding: 30px;
+.mainthing {
+    margin:20px auto;
+    width:60vw;
+    height: 80vh;
+    background-color:#dca927
 }
