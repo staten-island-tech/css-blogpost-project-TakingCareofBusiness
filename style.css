@@ -1,3 +1,58 @@
-.backthing {
-    back
+body {
+    background-color: yellow;
+    color: black;
+    font-size: ;
+}
+.header {
+    padding: 100px;
+    text-align: center;
+    background: purple;
+    color: orangered;
+    font-size: 75px;
+  }
+body {
+    background-color:blueviolet
+}
+
+.subheader {
+    text-align: center;
+    color: orangered;
+    font-size: 50px;
+}
+.paragraph {
+    color:black;
+    font-size: 30px;
+    
+}
+.unlistdescription {
+    text-align: center;
+    font-size: 35px;
+}
+.unorderedlist {
+    text-align: center;
+    font-size: 35px;
+}
+.rankedlistdescription {
+    text-align: center;
+    font-size: 35px;
+}
+.orderedlist {
+    text-align: center;
+    font-size: 35px;
+}
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.link {
+    width: 300px;
+    height: 200px;
+    text-align: right;
+    background: yellow;
+    font-size: 25px;
+    margin: 20px auto;
+    border: 2px solid black;
+    padding: 30px;
 }
