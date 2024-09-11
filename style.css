@@ -5,23 +5,38 @@ body {
 .text {
     color: #0c0c06;
 }
-#mainheading {
-    font-size:65px;
+#titlecard-title {
+    font-size:60px;
     margin: 10px;
 }
-#subheading {
+#titlecard-subheading {
     margin: 10px;
-    font-size:40px;
+    font-size:35px;
 }
-#explanation {
-    font-size:25px;
+#titlecard-paragraph {
+    font-size:20px;
 }
 .articletitle {
-    font-size:50px;
+    font-size:35px;
+    padding-top
 }
-.mainthing {
+.titlecard {
+    background-color:#f3e277;
+    margin:20px auto;
+    width: 60vw;
+    height:20vh;
+}
+.article {
+    width:500px;
+    height: 550px;
+    border:2px solid #0c0c06;
+    
+}
+.articlebox {
     margin:20px auto;
     width:60vw;
-    height: 80vh;
-    background-color:#dca927
+    height: 1500px;
+    background-color:#dca927;
+    padding: 5%;
+    
 }
