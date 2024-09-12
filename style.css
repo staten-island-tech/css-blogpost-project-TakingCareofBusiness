@@ -4,10 +4,12 @@ body {
 }
 .text {
     color: #0c0c06;
+    font-family: "Glass Antiqua";
 }
 #titlecard-title {
     font-size:60px;
     margin: 10px;
+    font-family: "Glass Antiqua", cursive;
 }
 #titlecard-subheading {
     margin: 10px;
@@ -42,4 +44,7 @@ body {
 }
 .article-cover {
     width:225px;
+}
+.absolute-article {
+    
 }
