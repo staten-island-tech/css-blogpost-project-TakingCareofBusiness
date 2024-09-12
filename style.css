@@ -27,6 +27,7 @@ body {
     margin:20px auto;
     width: 900px;
     height:250px;
+    border:2px solid #0c0c06;
 }
 .article {
     width:450px;
@@ -38,11 +39,13 @@ body {
     
 }
 .articlebox {
+    display:flex;
     margin:20px auto;
     width:900px;
     height: 1500px;
     background-color:#f3e277;
     padding: 5%;
+    border:2px solid #0c0c06
     
 }
 .article-cover {
@@ -51,9 +54,7 @@ body {
 a {
     color:#63644d
 }
-.first-absolute-article {
-    position:absolute;
-    left:950px;
-    bottom:27.8px;
-    
+.relative-article {
+
+
 }
