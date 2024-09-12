@@ -18,25 +18,28 @@ body {
 }
 .articletitle {
     font-size:35px;
-    padding-top
+    margin-bottom:10px;
 }
 .titlecard {
-    background-color:#f3e277;
+    background-color:#dfa921;
     margin:20px auto;
-    width: 60vw;
-    height:20vh;
+    width: 900px;
+    height:250px;
 }
 .article {
-    width:500px;
+    width:450px;
     height: 550px;
     border:2px solid #0c0c06;
     
 }
 .articlebox {
     margin:20px auto;
-    width:60vw;
+    width:900px;
     height: 1500px;
-    background-color:#dca927;
+    background-color:#f3e277;
     padding: 5%;
     
+}
+.article-cover {
+    width:225px;
 }
