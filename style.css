@@ -27,7 +27,7 @@ body {
     margin:20px auto;
     width: 900px;
     height:250px;
-    border:2px solid #0c0c06;
+    border:2px solid #0c0c06
 }
 .article {
     width:450px;
@@ -39,12 +39,11 @@ body {
     
 }
 .articlebox {
-    display:flex;
     margin:20px auto;
     width:900px;
     height: 1500px;
     background-color:#f3e277;
-    padding: 5%;
+    padding: 0% 10%;
     border:2px solid #0c0c06
     
 }
@@ -54,7 +53,20 @@ body {
 a {
     color:#63644d
 }
-.relative-article {
-
-
+#second-article {
+    left:500px;
+    bottom:554.32px;
+    position:relative;
+}
+#third-article {
+    position:relative;
+    bottom:525px;
+}
+#fourth-article {
+    position:relative;
+    left:500px;
+    bottom: 1080px;
+}
+#article-box-title {
+    font-size:55px;
 }
