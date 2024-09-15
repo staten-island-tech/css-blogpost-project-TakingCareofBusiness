@@ -70,3 +70,18 @@ a {
 #article-box-title {
     font-size:55px;
 }
+.small-image {
+    width:15%;
+}
+#first-logo {
+    width:6%;
+    position:absolute;
+    bottom:680px;
+    right:1050px;
+}
+#second-logo {
+    width:6%;
+    position:absolute;
+    bottom:680px;
+    left:1050px;
+}
